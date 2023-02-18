@@ -1,18 +1,6 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "Que bom que vc veio",
-      "autoria": "Eu",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 2,
-      "conteudo": "Estudando Angular",
-      "autoria": "Dev",
-      "modelo": "modelo2"
-    },
-    {
       "id": 3,
       "conteudo": "Angular é o melhor",
       "autoria": "Guilherme",
@@ -23,12 +11,6 @@
       "autoria": "Dev Angular",
       "modelo": "modelo2",
       "id": 4
-    },
-    {
-      "conteudo": "Hey Yaaaaaaa",
-      "autoria": "Outkast",
-      "modelo": "modelo3",
-      "id": 5
     }
   ]
 }
